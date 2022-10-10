@@ -1,0 +1,27 @@
+.actions {
+  float: right;
+}
+
+button {
+  margin: 5px;
+  width: 100px;
+  height: 40px;
+  border: 1px solid #ecb365;
+  border-radius: 10px;
+  color: #ecb365;
+  text-transform: uppercase;
+  font-weight: 900;
+  background-color: #565656;
+}
+
+.total {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list {
+  display: block;
+  max-height: 400px;
+  overflow: scroll;
+}

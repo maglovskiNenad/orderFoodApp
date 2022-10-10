@@ -1,0 +1,30 @@
+.mealItem {
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+  border-bottom: 1px solid #ecb365;
+}
+
+.meal {
+  display: flex;
+  flex-direction: column;
+  line-height: 40px;
+}
+
+.name {
+  font-size: 30px;
+}
+
+.description {
+  font-size: 10px;
+}
+
+.add {
+  display: flex;
+  align-items: center;
+}
+
+.price {
+  margin: 0 15px;
+  font-size: 25px;
+}

@@ -1,0 +1,14 @@
+.listOfMeals {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  background: rgba(0, 0, 0, 0.3);
+  width: 80%;
+  border-radius: 20px;
+  padding: 2em 0 2em 0;
+}

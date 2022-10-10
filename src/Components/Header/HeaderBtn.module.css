@@ -1,0 +1,19 @@
+.btn {
+  display: flex;
+  width: 100px;
+  height: 50px;
+  align-items: center;
+  justify-content: space-evenly;
+  color: #ecb365;
+  background-color: #064663;
+  border: 1px solid #ecb365;
+  border-radius: 15px;
+  font-size: 1.5em;
+  box-shadow: #ecb365 0px 1px 10px;
+}
+
+.title {
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-right: 0.5rem;
+}
